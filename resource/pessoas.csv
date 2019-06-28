@@ -1,0 +1,101 @@
+nome;idade;sexo;estado;codigo
+Miguel;24;M;Acre;AC
+Davi;79;M;Alagoas;AL
+Arthur;36;M;Amapá;AP
+Pedro;24;M;Amazonas;AM
+Gabriel;64;M;Roraima;RR
+Bernardo;75;M;Rondônia;RO
+Lucas;47;M;Pará;PA
+Matheus;61;M;Paraíba;PB
+Rafael;77;M;Maranhão;MA
+Heitor;46;M;Piauí;PI
+Enzo;28;M;Pernambuco;PE
+Guilherme;52;M;Rio Grande do Norte;RN
+Nicolas;39;M;Ceará;CE
+Lorenzo;79;M;Sergipe;SE
+Gustavo;60;M;Bahia;BA
+Felipe;46;M;Distrito Federal;DF
+Samuel;61;M;Tocantins;TO
+João Pedro;75;M;Goiás;GO
+Daniel;43;M;Mato Grosso do Sul;MS
+Vitor;32;M;Mato Grosso;MT
+Leonardo;68;M;Rio de Janeiro;RJ
+Henrique;25;M;São Paulo;SP
+Theo;62;M;Minas Gerais;MG
+Murilo;66;M;Espírito Santo;ES
+Eduardo;64;M;Rio Grande do Sul;RS
+Pedro Henrique;77;M;Santa Catarina;SC
+Pietro;75;M;Paraná;PR
+Cauã;46;M;Acre;AC
+Isaac;58;M;Alagoas;AL
+Caio;44;M;Amapá;AP
+Vinicius;38;M;Amazonas;AM
+Benjamin;26;M;Roraima;RR
+João;27;M;Rondônia;RO
+Lucca;55;M;Pará;PA
+João Miguel;69;M;Paraíba;PB
+Bryan;59;M;Maranhão;MA
+Joaquim;45;M;Piauí;PI
+João Vitor;67;M;Pernambuco;PE
+Thiago;62;M;Rio Grande do Norte;RN
+Antônio;31;M;Ceará;CE
+Davi Lucas;52;M;Sergipe;SE
+Francisco;38;M;Bahia;BA
+Enzo Gabriel;78;M;Distrito Federal;DF
+Bruno;73;M;Tocantins;TO
+Emanuel;25;M;Goiás;GO
+João Gabriel;48;M;Mato Grosso do Sul;MS
+Ian;48;M;Mato Grosso;MT
+Davi Luiz;39;M;Rio de Janeiro;RJ
+Rodrigo;67;M;São Paulo;SP
+Otávio;64;M;Minas Gerais;MG
+Sophia;57;F;Espírito Santo;ES
+Alice;50;F;Rio Grande do Sul;RS
+Julia;38;F;Santa Catarina;SC
+Isabella;32;F;Paraná;PR
+Manuela;45;F;Acre;AC
+Laura;21;F;Alagoas;AL
+Luiza;25;F;Amapá;AP
+Valentina;25;F;Amazonas;AM
+Giovanna;44;F;Roraima;RR
+Maria Eduarda;66;F;Rondônia;RO
+Helena;65;F;Pará;PA
+Beatriz;79;F;Paraíba;PB
+Maria Luiza;22;F;Maranhão;MA
+Lara;44;F;Piauí;PI
+Mariana;56;F;Pernambuco;PE
+Nicole;40;F;Rio Grande do Norte;RN
+Rafaela;55;F;Ceará;CE
+Heloísa;52;F;Sergipe;SE
+Isadora;76;F;Bahia;BA
+Lívia;21;F;Distrito Federal;DF
+Maria Clara;70;F;Tocantins;TO
+Ana Clara;28;F;Goiás;GO
+Lorena;38;F;Mato Grosso do Sul;MS
+Gabriela;77;F;Mato Grosso;MT
+Yasmin;80;F;Rio de Janeiro;RJ
+Isabelly;25;F;São Paulo;SP
+Sarah;46;F;Minas Gerais;MG
+Ana Julia;40;F;Espírito Santo;ES
+Letícia;48;F;Rio Grande do Sul;RS
+Ana Luiza;58;F;Santa Catarina;SC
+Melissa;44;F;Paraná;PR
+Marina;55;F;São Paulo;SP
+Clara;48;F;Minas Gerais;MG
+Cecília;33;F;Espírito Santo;ES
+Esther;45;F;Rio Grande do Sul;RS
+Emanuelly;44;F;Santa Catarina;SC
+Rebeca;53;F;Paraná;PR
+Ana Beatriz;71;F;Acre;AC
+Lavínia;69;F;São Paulo;SP
+Vitória;70;F;Minas Gerais;MG
+Bianca;26;F;Espírito Santo;ES
+Catarina;34;F;Rio Grande do Sul;RS
+Larissa;27;F;Santa Catarina;SC
+Maria Fernanda;74;F;Paraná;PR
+Fernanda;21;F;Acre;AC
+Amanda;77;F;Rio Grande do Sul;RS
+Alícia;47;F;Santa Catarina;SC
+Carolina;42;F;Paraná;PR
+Agatha;78;F;Acre;AC
+Gabrielly;54;F;Alagoas;AL
