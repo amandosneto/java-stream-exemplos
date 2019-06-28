@@ -45,7 +45,7 @@ public class BuscaTradicional {
 		animals.add(new Animal("Gavião", false, true));
 		animals.add(new Animal("Pato", true, true));
 		
-		print(animals, new VerificaSeVoa());
+		//print(animals, new VerificaSeVoa());
 		
 		//Problema: O que devo fazer para verificar se uma especie pode nadar, e as que podem nadar e voar
 		//Problema: O que devo fazer para verificar se uma especie pode nadar, e as que podem nadar e voar
